@@ -1,0 +1,11 @@
+select {
+    max-width: 500px;
+}
+
+table {
+    display: none;
+}
+
+.alert {
+    display: none;
+}

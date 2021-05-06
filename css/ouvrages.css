@@ -1,0 +1,14 @@
+button {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.alert {
+    display: none;
+}
