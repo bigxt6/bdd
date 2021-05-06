@@ -15,7 +15,7 @@ if (isset($_POST['submit']) && isset($_GET['id'])) {
         $isoDate = DateTime::createFromFormat('d/m/Y', $_POST['datecotis']);
 
         /*** SQL À INSÉRER ICI ***/
-        /**
+        /***
          * Implémentez la requête permettant de mettre à jour tous les champs de la table Clients
          * Utilisez la fonction format() pour convertir la date $isoDate au format ISO.
          */
